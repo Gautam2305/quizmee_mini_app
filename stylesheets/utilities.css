@@ -7,6 +7,9 @@
 .bg-grey{
     background-color: var(--st-primary-bg);
 }
+.text-deco-none{
+    text-decoration: none;
+}
 .text-white{
     color: var(--st-white);
 }
@@ -15,4 +18,13 @@
 }
 .text-green-d{
     color: var(--st-secondary-dark);
+}
+.text-red{
+    color: var(--st-mid-red);
+}
+.text-orange{
+    color: var(--st-orange);
+}
+.text-yellow{
+    color: var(--st-yellow);
 }
