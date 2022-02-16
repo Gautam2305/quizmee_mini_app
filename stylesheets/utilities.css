@@ -1,0 +1,18 @@
+.flex{
+    display: flex;
+}
+.center{
+    text-align: center;
+}
+.bg-grey{
+    background-color: var(--st-primary-bg);
+}
+.text-white{
+    color: var(--st-white);
+}
+.text-green{
+    color: var(--st-secondary);
+}
+.text-green-d{
+    color: var(--st-secondary-dark);
+}
