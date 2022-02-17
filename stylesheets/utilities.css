@@ -4,8 +4,16 @@
 .center{
     text-align: center;
 }
-.bg-grey{
-    background-color: var(--st-primary-bg);
+.text-deco-none{
+    text-decoration: none;
+}
+.auto-margin{
+    margin: auto;
+}
+/* text utilities */
+.text-mid{
+    font-size: 1rem;
+    font-family: var(--st-main-text);
 }
 .text-white{
     color: var(--st-white);
@@ -15,4 +23,29 @@
 }
 .text-green-d{
     color: var(--st-secondary-dark);
+}
+.text-red{
+    color: var(--st-mid-red);
+}
+.text-orange{
+    color: var(--st-orange);
+}
+.text-yellow{
+    color: var(--st-yellow);
+}
+.text-blue{
+    color: var(--st-blue);
+}
+/* Background-utilities */
+.bg-grey-l{
+    background-color: var(--st-light-grey);
+}
+.bg-grey{
+    background-color: var(--st-primary-bg);
+}
+.bg-green{
+    background-color: var(--st-secondary-dark);
+}
+.bg-red{
+    background-color: var(--st-mid-red);
 }
