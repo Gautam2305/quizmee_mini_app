@@ -1,0 +1,15 @@
+.counter-container{
+    justify-content: space-between;
+    padding: 1rem 3rem;
+}
+.question-container{
+    width: 50%;
+}
+.question-box{
+    padding: 2rem;
+}
+.option-box{
+    padding: 1.5rem;
+    border-radius: 0.75rem;
+    margin: 1rem auto;
+}
