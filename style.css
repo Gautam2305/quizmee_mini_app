@@ -4,3 +4,5 @@
 @import "/stylesheets/utilities.css";
 
 @import "/pages/home.css";
+@import "/pages/questions/question.css";
+@import "/pages/result/result.css";
