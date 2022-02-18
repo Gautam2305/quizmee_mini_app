@@ -1,0 +1,7 @@
+.result-ques-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.result-ques, .option-box{
+    width: 16rem;
+}
