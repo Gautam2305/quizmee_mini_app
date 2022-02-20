@@ -12,4 +12,4 @@
     <li>Result page to show the correct and incorrect options chosen with the score to the user for them to analyze their answers</li>
 </ul>
 
-<p>Built as a part of neoGcamp levelOne by Gautam2305.</p>
+<p>Built as a part of neoGcamp levelOne.</p>
