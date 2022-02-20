@@ -1,6 +1,6 @@
 <h1>Quizmee</h1>
 <p>A quiz app to test your knowledge in diferent categories (for now, Pokemon). So play this quiz and flex your knowledge in Pokemon. </p>
-<a>https://quizmee-mini-app.netlify.app</a>
+<p>https://quizmee-mini-app.netlify.app</p>
 <hr>
 
 <h3>Features</h3>
